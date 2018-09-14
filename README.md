@@ -1,5 +1,5 @@
 # Hand_on_ML_Algorithm
-这里是我自己实现的一些机器学习的算法，主要是为了学习算法的原理，没有过多考虑性能 ~~
+这里是我自己实现的一些机器学习的算法（间断更新），主要是为了学习算法的原理，没有过多考虑性能 ~~
 ## 文件说明
 - 这里的代码都是在Jupyter Notebook中运行，下载后直接在Jupyter Notebook中打开运行即可，因为对于自己动手实现算法，在Jupyter Notebook中进行交互式操作要方便快捷得多
 ## 1. LinearRegression_multi_polynomal
